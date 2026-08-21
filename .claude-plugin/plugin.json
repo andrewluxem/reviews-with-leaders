@@ -1,0 +1,17 @@
+{
+  "name": "reviews-with-leaders",
+  "version": "1.0.0",
+  "description": "Prepares a concise leadership review brief with decision asks, evidence, and follow-through. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/reviews-with-leaders",
+  "repository": "https://github.com/andrewluxem/reviews-with-leaders",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "leadership-review",
+    "decision-brief"
+  ]
+}

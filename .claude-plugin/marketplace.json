@@ -1,0 +1,23 @@
+{
+  "name": "reviews-with-leaders",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Prepares a concise leadership review brief with decision asks, evidence, and follow-through. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "reviews-with-leaders",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Prepares a concise leadership review brief with decision asks, evidence, and follow-through. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "leadership-review",
+        "decision-brief"
+      ]
+    }
+  ]
+}
